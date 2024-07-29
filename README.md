@@ -2,7 +2,8 @@
 
 Welcome to the Employee Management Application! This is a full-stack web application designed to streamline employee management processes. Built with React on the front end and Spring Boot on the back end, this application provides comprehensive CRUD (Create, Read, Update, Delete) functionalities for managing employee data effortlessly.
 <br />
-[screen-capture (17).webm](https://github.com/user-attachments/assets/32186ee4-11fb-4d7d-aeb5-6883112c68a1)
+
+ Check Demo Here : [screen-capture (17).webm](https://github.com/user-attachments/assets/32186ee4-11fb-4d7d-aeb5-6883112c68a1)
 <br />
 
 ## Features 🌟
